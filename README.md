@@ -4,7 +4,7 @@
 <br>
 <img src="Images/Image1.png" height="400" width="400" alt="*_*">
 
-> I must have read so many pretty bios of amazing coders describing their love for Open Source and their experience in bla bla projects. It's all fun
+> I have read so many pretty bios of amazing coders describing their love for Open Source and their experience in bla bla projects. It's all fun
 and games, until it comes to writing down my own Bio. I really dun know how to make my Bio Exceptional. I am just a noob person pulled down by life to 
 remain rookie. I am trying to get through circumstances of life and improve myself. Projects, Competetive Coding and Shit. Stay tuned. 
 
