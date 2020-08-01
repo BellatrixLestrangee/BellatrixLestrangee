@@ -6,7 +6,7 @@
 
 Good Question. 
 <br> A bit. <br>
-  > **What do I know?**
+  > **My knowledge tags**
   
   ![Python](https://img.shields.io/badge/Language-Python-red)![Java](https://img.shields.io/badge/-Java-red)
   ![SQL](https://img.shields.io/badge/DB-SQL%2FOracle-9cf)![Framework](https://img.shields.io/badge/Framework-Django-blue)
@@ -16,5 +16,6 @@ Good Question.
   ![Frontend](https://img.shields.io/badge/-JS-ff69b4)
 <br> 
 > **What do I want to do?**
+
 > I want to go out of my f*ckin comfort zone and make some worthwhile projects which I am working on. 
 
