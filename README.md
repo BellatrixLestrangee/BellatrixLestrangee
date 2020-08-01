@@ -2,7 +2,7 @@
 
 **Thanks for stopping By. I am Ujjwal! (hie)**
 <br>
-<img src="Images/Image1.png">
+<img src="Images/Image1.png" height="400" width="400">
 
 Good Question. 
 <br> A bit. <br>
