@@ -8,7 +8,7 @@
 and games, until it comes to writing down my own Bio. I really dun know how to make my Bio Exceptional. I am just a noob person pulled down by life to 
 remain rookie. I am trying to get through circumstances of life and improve myself. Projects, Competitive Coding and Shit. Stay tuned. 
 
-Do I know Coding though?
+Do I know Coding though? ¯\\_(ツ)_/¯<br>
 Good Question. 
 <br> A bit. <br>
   > **My knowledge tags**
@@ -20,7 +20,6 @@ Good Question.
   ![Frontend](https://img.shields.io/badge/-CSS-ff69b4)
   ![Frontend](https://img.shields.io/badge/-JS-ff69b4)
 <br> 
-> **What do I want to do?**
-
-> I want to go out of my f*ckin comfort zone and make some worthwhile projects which I am working on. 
+> **What do I want to do?**<br>
+ I want to go out of my f*ckin comfort zone and make some worthwhile projects which I am working on. 
 
